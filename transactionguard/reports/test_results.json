@@ -1,0 +1,19 @@
+{
+  "selected_threshold": 0.85,
+  "threshold": 0.85,
+  "precision": 0.2327790973871734,
+  "recall": 0.3828125,
+  "f1": 0.2895125553914328,
+  "pr_auc": 0.28892852032211935,
+  "roc_auc": 0.8426423865378065,
+  "confusion_matrix": {
+    "tn": 11421,
+    "fp": 323,
+    "fn": 158,
+    "tp": 98
+  },
+  "false_negative_count": 158,
+  "false_positive_count": 323,
+  "estimated_cost": 270732.505,
+  "validation_cost_at_threshold": 268012.378
+}

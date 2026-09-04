@@ -1,0 +1,21 @@
+txn_id,hour,is_night,is_weekend,amount_inr,transaction_type,channel,account_age_days,is_new_account,avg_amount_last_30d,amount_to_avg_ratio,txn_count_last_24h,txn_count_last_1h,new_device_flag,new_beneficiary_flag,sim_recently_changed_flag,upi_pin_reset_last_7d,failed_otp_attempts_last_1h,login_location_mismatch_flag
+TXN138712,8,0,0,286.84,P2P Transfer,NetBanking,91.0,0,685.19,0.419,3,2,0,0,0,0,0,1
+TXN136632,10,0,1,255.19,Bill Payment,Card,80.0,0,49.0,5.208,1,1,0,0,0,0,0,0
+TXN132462,23,0,1,907.19,P2P Transfer,Card,18.0,0,421.29,2.153,1,0,0,0,0,0,0,0
+TXN127213,0,1,1,1176.55,Bill Payment,IMPS,54.0,0,667.72,1.762,1,0,0,0,0,0,0,0
+TXN102289,9,0,0,2244.57,Merchant Payment,UPI,306.0,0,1691.87,1.327,2,0,0,1,0,0,1,0
+TXN100236,15,0,0,1323.22,Wallet Top-up,IMPS,60.0,0,757.81,1.746,4,0,1,0,0,0,0,0
+TXN157294,11,0,0,2218.95,P2P Transfer,NetBanking,31.0,0,1703.59,1.303,0,0,0,0,0,0,0,0
+TXN156386,22,0,0,756.65,P2P Transfer,UPI,83.0,0,160.61,4.711,2,1,1,0,0,0,0,1
+TXN154505,12,0,0,1006.17,Loan EMI Payment,UPI,12.0,0,631.07,1.594,1,0,1,0,0,0,0,0
+TXN159648,11,0,0,694.31,Bill Payment,NetBanking,301.0,0,830.97,0.836,1,0,0,1,0,0,0,1
+TXN151452,8,0,0,418.91,Bill Payment,UPI,41.0,0,730.17,0.574,1,0,0,0,0,0,0,0
+TXN108602,6,0,0,261.69,Merchant Payment,UPI,23.0,0,214.55,1.22,6,1,0,0,0,0,0,0
+TXN138441,5,1,1,2022.36,P2P Transfer,UPI,172.0,0,1522.98,1.328,2,0,0,0,0,0,0,0
+TXN159475,3,1,1,5014.29,P2P Transfer,UPI,77.0,0,6344.11,0.79,1,0,0,0,0,0,0,0
+TXN119676,1,1,1,531.61,P2P Transfer,UPI,202.0,0,366.5,1.451,3,1,0,0,0,0,0,0
+TXN151240,3,1,0,265.04,Bill Payment,UPI,424.0,0,265.93,0.997,1,0,0,1,0,0,0,0
+TXN158040,4,1,1,163.28,Loan EMI Payment,IMPS,48.0,0,267.5,0.61,1,1,0,0,0,1,0,0
+TXN135528,14,0,1,6930.53,Merchant Payment,IMPS,526.0,0,3669.05,1.889,2,0,0,0,0,0,0,0
+TXN110095,19,0,1,978.83,P2P Transfer,Card,140.0,0,675.47,1.449,2,0,0,0,0,0,0,0
+TXN105067,0,1,0,2385.06,P2P Transfer,UPI,439.0,0,1420.13,1.679,1,1,0,0,0,0,0,0

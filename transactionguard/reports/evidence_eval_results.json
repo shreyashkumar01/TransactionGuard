@@ -1,0 +1,16 @@
+{
+  "n_images": 80,
+  "n_tampered": 40,
+  "n_authentic": 40,
+  "threshold": 0.45,
+  "precision": 0.5490196078431373,
+  "recall": 0.7,
+  "pr_auc": 0.6783930072169599,
+  "roc_auc": 0.6543749999999999,
+  "confusion_matrix": {
+    "tn": 17,
+    "fp": 23,
+    "fn": 12,
+    "tp": 28
+  }
+}

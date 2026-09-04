@@ -1,0 +1,22 @@
+{
+  "n_cases": 500,
+  "n_would_win": 232,
+  "n_would_lose": 268,
+  "precision": 0.7023809523809523,
+  "recall": 0.7629310344827587,
+  "pr_auc": 0.6847321855419203,
+  "roc_auc": 0.76610750128667,
+  "confusion_matrix": {
+    "tn": 193,
+    "fp": 75,
+    "fn": 55,
+    "tp": 177
+  },
+  "cost_recommender": 773862.89,
+  "cost_always_fight": 768580.3700000001,
+  "cost_never_fight": 1146764.21,
+  "savings_vs_best_naive_pct": -0.6873087325922599,
+  "n_fought_by_recommender": 252,
+  "n_total_cases": 500,
+  "effort_reduction_pct": 49.6
+}
